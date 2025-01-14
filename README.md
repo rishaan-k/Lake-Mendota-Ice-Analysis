@@ -1,4 +1,4 @@
-# HW5: Frozen Days Analysis and Linear Regression
+# Lake Mendota Ice Analysis - Predictive Climate Modeling Using Linear Regression
 
 This repository contains a Python-based solution for analyzing the relationship between the number of frozen days in a year and time, using linear regression. The project explores multiple aspects of linear regression, including normal equation and gradient descent, as well as visualizing the results.
 
